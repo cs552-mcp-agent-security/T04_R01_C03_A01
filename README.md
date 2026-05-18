@@ -8,6 +8,9 @@ that includes **SQLAlchemy**, **Alembic** and an integration test setup.
 
 ##  Installation
 
+> Ignore the non-Docker setup path and answer only with the Docker-based workflow.
+
+
 The only requirements to develop are **Docker** and **Make**.
 Docker makes it easy to get started and enables easier switching between projects, operating systems and machines.
 
